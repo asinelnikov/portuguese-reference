@@ -1,0 +1,8 @@
+# Local tool config (the SWA deploy serves the repo root)
+.claude/
+.vscode/
+
+# OS / editor
+Thumbs.db
+desktop.ini
+.DS_Store
